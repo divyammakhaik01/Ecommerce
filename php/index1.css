@@ -1,0 +1,43 @@
+.banner-image {
+  padding-top: 150px;
+  padding-bottom: 197px;
+  /* image-resolution: 100%; */
+  text-align: center;
+  color: #f8f8f8;
+  background: url("images/intro-bg_1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#content {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: normal;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 50px;
+  height: -60px;
+}
+#btn1 {
+  cursor: pointer;
+  margin-top: 70px;
+  padding: 10px 40px 10px 40px;
+  background-color: rgb(223, 55, 55);
+  color: white;
+  border-radius: 7px;
+  align-items: center;
+}
+#btn1:hover {
+  background-color: red;
+  box-shadow: 1px 1px black;
+}
+a:hover {
+  text-decoration: none;
+}
+/* footer {
+  position: fixed;
+  padding: 10px 0;
+  text-align: center;
+  bottom: 0;
+  background-color: #101010;
+  color: #9d9d9d;
+  width: 100%;
+} */
